@@ -4,45 +4,7 @@ namespace BlackJack21
 {
     class Program
     {
-        //static void GetCard(int x)
-        //{
-        //    switch(x)
-        //    {
-        //        case 1:
-        //            Console.WriteLine("Your card Ace!");
-        //            break;
-        //        case 2:
-        //            Console.WriteLine("Your card Jack!");
-        //            break;
-        //        case 3:
-        //            Console.WriteLine("Your card Lady!");
-        //            break;
-        //        case 4:
-        //            Console.WriteLine("Your card King!");
-        //            break;
-        //        case 5:
-        //            Console.WriteLine("Your card Five!");
-        //            break;
-        //        case 6:
-        //            Console.WriteLine("Your card Six!");   This is I was trying to connect the numbers and the cards
-        //            break;
-        //        case 7:
-        //            Console.WriteLine("Your card Seven!");
-        //            break;
-        //        case 8:
-        //            Console.WriteLine("Your card Eight!");
-        //            break;
-        //        case 9:
-        //            Console.WriteLine("Your card Nine!");
-        //            break;
-        //        case 10:
-        //            Console.WriteLine("Your card Ten!");
-        //            break;
-        //        case 11:
-        //            Console.WriteLine("Your card Ace!");
-        //            break;
-        //    } 
-        //}
+        
         static void Main(string[] args)
         {
             int playerCardValue = 0;
